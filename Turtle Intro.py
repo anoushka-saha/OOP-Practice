@@ -25,4 +25,4 @@ print(my_screen.canvheight)
 
 #A function tied to an object is called a method
 #Using exitonclick() method 
-my_screen.exitonclick()  
+my_screen.exitonclick()
